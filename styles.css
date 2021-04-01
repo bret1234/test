@@ -1,0 +1,11 @@
+.nav{
+    list-style: none;
+}
+.nav li{
+    display: inline;
+    font-size: 30px;
+    margin-left: 2px;
+}
+li:hover{
+    color: blue;
+}
