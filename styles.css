@@ -10,6 +10,7 @@
 li:hover{
     color: rgb(249, 249, 250);
     background-color: blueviolet;
+    cursor: pointer;
 }
 .welcome{
     background-color: rgb(243, 240, 247);
