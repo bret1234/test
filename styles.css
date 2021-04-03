@@ -1,16 +1,22 @@
 .nav{
     list-style: none;
+    background-color: cornflowerblue;
 }
 .nav li{
     display: inline;
     font-size: 30px;
-    margin-left: 2px;
+    margin-left: 10px;
 }
 li:hover{
-    color: blue;
+    color: rgb(249, 249, 250);
+    background-color: blueviolet;
+    cursor: pointer;
+}
+.welcome{
+    background-color: rgb(243, 240, 247);
 }
 .box{
-    background-color: blue;
-    height: 200px;
-    width: 200px;
+    height:100px;
+    width:400px;
+    background-color:rgb(86, 7, 160);
 }
