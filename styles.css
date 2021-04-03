@@ -15,3 +15,8 @@ li:hover{
 .welcome{
     background-color: rgb(243, 240, 247);
 }
+.box{
+    height:100px;
+    width:100px;
+    background-color:blueviolet;
+}
