@@ -4,3 +4,4 @@
 ## added ssh from macmini
 ## adding comment to show title and message in commiting
 ## adding using hot keysgit
+## comment from MAC MINI
